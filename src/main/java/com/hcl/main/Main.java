@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	s.setId(1);
 	s.setName("teja");
     System.out.println(s);
+    System.out.println("hello world");
 
 	
 }
